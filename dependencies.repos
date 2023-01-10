@@ -1,12 +1,12 @@
 repositories:
   jackal_robot:
     type: git
-    url: https://github.com/jackal/jackal_robot.git
-    version: foxy-devel
+    url: https://github.com/roasinc/jackal_robot.git
+    version: humble-devel
   jackal:
     type: git
-    url: https://github.com/jackal/jackal.git
-    version: foxy-devel
+    url: https://github.com/roasinc/jackal.git
+    version: humble-devel
   wireless:
     type: git
     url: https://github.com/clearpathrobotics/wireless.git
@@ -15,4 +15,8 @@ repositories:
     type: git
     url: https://github.com/micro-ROS/micro_ros_setup.git
     version: foxy
+  interactive_marker_twist_server:
+    type: git
+    url: https://github.com/roasinc/interactive_marker_twist_server.git
+    version: humble-devel
 

@@ -37,6 +37,7 @@
   <exec_depend>velodyne_driver</exec_depend>
   <exec_depend>velodyne_pointcloud</exec_depend>
   <exec_depend>wireless_watcher</exec_depend>
+  <exec_depend>wireless_watcher</exec_depend>
   <exec_depend>xacro</exec_depend>
 
   <export>
